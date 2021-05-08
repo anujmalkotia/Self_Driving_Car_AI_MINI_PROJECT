@@ -1,0 +1,3 @@
+Main aim for the car is to travel to airport (top left corner)
+and making a round trip to downtown (bottom right corner), And
+check its accuracy for having maximum number of Rewards.
